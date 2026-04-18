@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "627042039941",
+    "firebase_url": "https://cakeapp-tanvy-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cakeapp-tanvy",
+    "storage_bucket": "cakeapp-tanvy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627042039941:android:4b30886f2077a9d17e11ec",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjUdLOrAAE-8iuVl45huktgLDANukYydI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627042039941:android:da63a783047f3eb07e11ec",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjUdLOrAAE-8iuVl45huktgLDANukYydI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627042039941:android:2a1f9dd095bc19b67e11ec",
+        "android_client_info": {
+          "package_name": "com.taskflow.cakeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjUdLOrAAE-8iuVl45huktgLDANukYydI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
